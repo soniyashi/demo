@@ -1,4 +1,4 @@
 # demo
 this is my first repository.
 <br>
-Author - sakshi soni
+Author - sakshi (yashi soni)
